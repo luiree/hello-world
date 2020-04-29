@@ -1,2 +1,6 @@
 # hello-world
-My first repository
+
+Hi there!
+
+Louis, here. I like to sit and watch the stars.
+
